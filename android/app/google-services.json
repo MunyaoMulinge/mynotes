@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102787556164",
+    "project_id": "mynotes-mulinge",
+    "storage_bucket": "mynotes-mulinge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102787556164:android:7d3f06f48ec80595b4ed11",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqyNqLyKjEYIK8ZOat0zUIv0aBkZ2w3MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
